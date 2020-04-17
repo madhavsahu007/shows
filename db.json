@@ -1,14 +1,17 @@
 [
-	{
-		"itemName": "Pizza",
-		"priceItem": 2000,
-	},
-	{
-        "itemName": "Burger",
-        "priceItem": 1000,
-    },
-    {
-        "itemName": "Pastry",
-        "priceItem": 500,
-    }
+  {
+    "itemName": "Pizza",
+    "priceItem": 2000,
+    
+  },
+  {
+    "itemName": "Burger",
+    "priceItem": 1000,
+    
+  },
+  {
+    "itemName": "Pastry",
+    "priceItem": 500,
+    
+  }
 ]
