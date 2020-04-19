@@ -2,15 +2,18 @@
   "items": [
     {
       "itemName": "Pizza",
-      "priceItem": 2000
+      "priceItem": 2000,
+      "desc": "Contains Jalapeno,Garlic,Mushroom,Palak.Different and authentic taste never before."
     },
     {
       "itemName": "Burger",
-      "priceItem": 1000
+      "priceItem": 1000,
+      "desc" : "Plain Veg Burger with cheese,mayo,veg pattie and baby spinach"
     },
     {
       "itemName": "Pastry",
-      "priceItem": 500
+      "priceItem": 500,
+      "desc" : "Black Forest Cake."
     }
   ]
 }
