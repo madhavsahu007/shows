@@ -3,17 +3,20 @@
     {
       "itemName": "Pizza",
       "priceItem": 2000,
-      "desc": "Contains Jalapeno,Garlic,Mushroom,Palak.Different and authentic taste never before."
+      "desc": "Contains Jalapeno,Garlic,Mushroom,Palak.Different and authentic taste never before.",
+      "imgUrl": "https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_640.jpg"
     },
     {
       "itemName": "Burger",
       "priceItem": 1000,
-      "desc" : "Plain Veg Burger with cheese,mayo,veg pattie and baby spinach"
+      "desc" : "Plain Veg Burger with cheese,mayo,veg pattie and baby spinach",
+      "imgUrl": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_640.jpg"
     },
     {
       "itemName": "Pastry",
       "priceItem": 500,
-      "desc" : "Black Forest Cake."
+      "desc" : "Black Forest Cake.",
+      "imgUrl": "https://pixabay.com/get/50e9d5434e52b10ff3d89960c62d3f79113bdfec5154_640.jpg"
     }
   ]
 }
